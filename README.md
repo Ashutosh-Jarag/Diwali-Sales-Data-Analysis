@@ -3,6 +3,12 @@
 ## Description
 This project performs an exploratory data analysis (EDA) on Diwali sales data to uncover insights, trends, and patterns related to consumer purchasing behavior during the festive season. The analysis includes data cleaning, transformation, and visualization to explore factors such as product categories, sales volume, and customer demographics influencing sales during Diwali.
 
+## Key Features
+- Cleaned the dataset by removing missing values and fixing inconsistencies
+- Transformed the data to make it analysis-ready (e.g., grouping sales by product type)
+- Analyzed sales patterns through EDA, focusing on high-demand items and time-based trends
+- Visualized findings with plots like bar charts and pie charts for clear insights
+
 ## Required Tools and Libraries
 - **Python 3.8+** - Core language for data processing and analysis
 - **Pandas** - Data manipulation and cleaning
